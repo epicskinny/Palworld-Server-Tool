@@ -6,9 +6,8 @@ PALWORLD SERVER PANEL - SIMPLE HOW TO
 1. FIRST START
 --------------
 1. Extract the program folder.
-2. Run the built Palworld Server Panel EXE, or run BUILD_EXE.bat first if you
-   are using the source version.
-3. In the Server/Setup area, choose where you want the Palworld dedicated
+2. Run the Palworld Server tool
+3. In the Dashboard area, choose where you want the Palworld dedicated
    server installed.
 4. Let the panel find SteamCMD automatically. If SteamCMD is missing, use the
    Install SteamCMD button.
@@ -23,6 +22,7 @@ Public Port: 8211
 Public Lobby: ON
 Public IP: Leave blank unless you specifically need to enter it.
 Custom Startup Arguments: Leave blank for normal use.
+sometimes server won't show up online if you don't have one!
 
 The panel will build the normal launch arguments for you.
 
