@@ -2,6 +2,8 @@
 
 PALWORLD SERVER PANEL - SIMPLE HOW TO
 ======================================
+<img width="1282" height="852" alt="Screenshot 2026-08-08 161726" src="https://github.com/user-attachments/assets/c98fa56b-b75b-4f11-9c74-cdc7de309c92" />
+<img width="1282" height="852" alt="Screenshot 2026-08-08 161733" src="https://github.com/user-attachments/assets/8d5e7e63-0371-4e41-b720-c0bb0887e3c9" />
 
 1. FIRST START
 --------------
